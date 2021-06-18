@@ -1,6 +1,6 @@
 # MarkdownEditor
 
-A markdown editor (M)
+A markdown editor ✍️
 
 ## Project setup
 ```
