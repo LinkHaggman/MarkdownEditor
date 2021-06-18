@@ -1,4 +1,4 @@
-# markdowneditor
+# MarkdownEditor
 
 ## Project setup
 ```
