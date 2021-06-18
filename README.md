@@ -1,5 +1,7 @@
 # MarkdownEditor
 
+A markdown editor (M)
+
 ## Project setup
 ```
 npm install
